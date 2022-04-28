@@ -1,0 +1,4 @@
+client/node_modules
+client/dist
+copia-server/node_modules
+copia-server/.env*
